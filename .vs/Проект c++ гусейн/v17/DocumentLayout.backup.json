@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\netsk\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71DE4647-C595-443C-B50D-8EB8E87FFF64}|\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.vcxproj|C:\\Users\\netsk\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71DE4647-C595-443C-B50D-8EB8E87FFF64}|\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.vcxproj|solutionrelative:\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp",
+              "DocumentMoniker": "C:\\Users\\netsk\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp",
+              "RelativeDocumentMoniker": "\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp",
+              "ToolTip": "C:\\Users\\netsk\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp",
+              "RelativeToolTip": "\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D\\\u041F\u0440\u043E\u0435\u043A\u0442 c\u002B\u002B \u0433\u0443\u0441\u0435\u0439\u043D.cpp",
+              "ViewState": "AgIAACgBAAAAAAAAAAAAAOgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-01-17T08:19:37.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
